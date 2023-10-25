@@ -22,7 +22,8 @@ I'm 19 years old and a passionate student in the world of software, making strid
 
 📫 If you'd like to get in touch, you can use one of the following ⤵:
 
-- [Email Adress](albertobedir@gmail.com)
+
+- <a href="mailto:albertobedir@gmail.com" class="">Email Adress</a>
 - [Personal Website Link](https://bedirhan-arslanhan.netlify.app)
 
 <p>
