@@ -36,5 +36,5 @@ Thank you for visiting this page, and I look forward to opportunities to work to
 </p>
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/551097949623681076)](https://discord.com/users/551097949623681076)
+
 
