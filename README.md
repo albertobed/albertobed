@@ -18,9 +18,7 @@ This GitHub repository is my space for sharing my journey of growth and my proje
 
 - <a href="mailto:albertobedir@gmail.com" class="">Email Adress</a>
 - [Personal Website Link](https://bedirhan-arslanhan.netlify.app)  
-  
 
-- <p>
 Thank you for visiting this page, and I look forward to opportunities to work together or connect on any matter! 😊
 </p>
   
